@@ -1,5 +1,5 @@
 {
-  "name": "readme",
+  "name": "readme-manage",
   "version": "0.1.0",
   "description": "Manipulate project details with markdown and a README file.",
   "main": "index.js",
