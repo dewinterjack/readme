@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dewinterjack/readme/issues"
   },
-  "homepage": "https://github.com/dewinterjack/readme#readme"
+  "homepage": "https://github.com/dewinterjack/readme#readme",
+  "bin": {
+    "start": "bin/start.js"
+  }
 }
