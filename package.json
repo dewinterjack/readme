@@ -1,0 +1,22 @@
+{
+  "name": "readme",
+  "version": "0.1.0",
+  "description": "Manipulate project details with markdown and a README file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewinterjack/readme.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "Jack Dewinter <jackdewinter1@gmail.com> (http://github.com/dewinterjack)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dewinterjack/readme/issues"
+  },
+  "homepage": "https://github.com/dewinterjack/readme#readme"
+}
