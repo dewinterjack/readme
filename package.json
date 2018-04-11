@@ -21,5 +21,8 @@
   "homepage": "https://github.com/dewinterjack/readme#readme",
   "bin": {
     "start": "bin/start.js"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.1"
   }
 }
